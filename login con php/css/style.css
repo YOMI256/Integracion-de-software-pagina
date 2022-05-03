@@ -1,0 +1,80 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: white;
+    font-family:'Plus Jakarta Sans', sans-serif;
+}
+
+img {
+    max-width: 100%;
+}
+
+.boxblue {
+    background-color: #183153;
+    height: 100vh;
+    width: 50%;
+    margin-left: auto;
+}
+
+.imagen {
+    width: 50%;
+    float: left;
+    margin-top: 1rem;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.campo {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.label {
+    font-weight: bold;
+    color: white;
+    font-size: 1rem;
+    padding: 0.5rem;
+}
+
+.input {
+	flex: 2;
+	border: 1px solid black;
+    border: 0;
+    border-radius: 1.5rem;
+    box-sizing: border-box;
+    padding: 12px 20px;
+    width: 22rem;
+}
+
+.input-img {
+    background-image: url(../img/email.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 2rem;
+}
+.label-recuerda {
+    text-align: left;
+    color: white;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.campo-recuerda {
+    margin-left: 1.5rem;
+}
+
+.checkbox-recuerda {
+    margin-right: 0.5rem;
+}
+.clave-olvidada {
+    margin-left: 2rem;
+    color: cornflowerblue;
+}
