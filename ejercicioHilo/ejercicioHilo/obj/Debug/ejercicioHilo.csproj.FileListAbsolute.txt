@@ -1,0 +1,8 @@
+C:\Users\pc\source\repos\ejercicioHilo\ejercicioHilo\bin\Debug\ejercicioHilo.exe.config
+C:\Users\pc\source\repos\ejercicioHilo\ejercicioHilo\bin\Debug\ejercicioHilo.exe
+C:\Users\pc\source\repos\ejercicioHilo\ejercicioHilo\bin\Debug\ejercicioHilo.pdb
+C:\Users\pc\source\repos\ejercicioHilo\ejercicioHilo\obj\Debug\ejercicioHilo.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\ejercicioHilo\ejercicioHilo\obj\Debug\ejercicioHilo.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\source\repos\ejercicioHilo\ejercicioHilo\obj\Debug\ejercicioHilo.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ejercicioHilo\ejercicioHilo\obj\Debug\ejercicioHilo.exe
+C:\Users\pc\source\repos\ejercicioHilo\ejercicioHilo\obj\Debug\ejercicioHilo.pdb
